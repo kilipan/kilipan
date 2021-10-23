@@ -1,3 +1,3 @@
-toki
-mi jan Juli
+toki  
+mi jan Juli  
 mi toki pona
