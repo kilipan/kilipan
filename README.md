@@ -1,4 +1,4 @@
-open source
-weird keyboards
-niche processors
-constructed languages
+open source  
+weird keyboards  
+niche processors  
+constructed languages  
